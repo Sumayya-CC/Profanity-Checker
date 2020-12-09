@@ -1,29 +1,3 @@
-.Align-box{
-  align-self: center;
-  margin-left: 5%;
-  margin-right: 5%;
-  margin-top: 2%;
-  width:90%;
-}
-
-.Space{
-  padding-top: 20px;
-}
-.Space-re{
-  padding-top: 40px;
-}
-
-.Left-report{
-  width: 80%;
-  float:left;
-  /* margin-left: 15px; */
-}
-.Right-report{
-  width: 15%;
-  float:right;
-  /* margin-left: 15px; */
-}
-
 .App {
   text-align: center;
 }
@@ -62,4 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
